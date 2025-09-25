@@ -14,7 +14,7 @@ export default function Projects() {
         "An e-commerce platform for a flower shop, featuring user authentication, product management, and a seamless shopping experience.",
       image: "/romanceinblooms.png",
       tags: ["PHP", "Bootstrap", "MySQL","Fontawesome", "Parasedown"],
-      liveUrl: "https://feedback-system-five.vercel.app/auth/login",
+      liveUrl: "https://github.com/ayepyaesan/Floral-Ecommerce-Platform",
       githubUrl: "https://github.com/ayepyaesan/Floral-Ecommerce-Platform",
     },
     {
