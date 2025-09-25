@@ -23,8 +23,8 @@ export default function Projects() {
         "A comprehensive culinary platform that allows users to explore recipes, sharing, and download resources.",
       image: "/culinary.png",
       tags: ["HTML", "CSS", "Bootstrap", "mySQL", "Javascript"],
-      liveUrl: "https://score-board-one-alpha.vercel.app/login",
-      githubUrl: "",
+      liveUrl: "https://github.com/ayepyaesan/culinary-platform",
+      githubUrl: "https://github.com/ayepyaesan/culinary-platform",
     },
     {
       title: "Smart Writing Platform",
