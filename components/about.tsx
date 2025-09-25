@@ -65,10 +65,6 @@ export default function About() {
                   <h4 className="font-medium text-gray-900 dark:text-white">Email:</h4>
                   <p className="text-gray-600 dark:text-gray-300">ayepyae2000.mdy@gmail.com</p>
                 </div>
-                <div>
-                  <h4 className="font-medium text-gray-900 dark:text-white">Experience:</h4>
-                  <p className="text-gray-600 dark:text-gray-300">2+ Years</p>
-                </div>
               </div>
 
               <motion.div
@@ -79,7 +75,7 @@ export default function About() {
                 <Button className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600"
                 onClick={() => {
                   window.open(
-                    "https://drive.google.com/drive/u/0/folders/12PWByUd83L8mHyxDomX5FMkkqjGPjzlG",
+                    "https://drive.google.com/file/d/1Un5EqRivZeehaIRfjlA1wk3xahJq_xtb/view?usp=sharing",
                     "_blank"
                   );
                 }}

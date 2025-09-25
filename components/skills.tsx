@@ -8,32 +8,32 @@ export default function Skills() {
     {
       category: "Frontend",
       icon: <Code className="h-6 w-6" />,
-      items: ["HTML", "CSS", "JavaScript", "TypeScript", "ReactJS", "NextJS", "Redux", "React Query", "Tailwind", "Material UI", "Jest", "Cypress", "Storybook"],
+      items: ["HTML", "CSS", "JavaScript", "TypeScript", "ReactJS",  "Tailwind"],
     },
     {
       category: "Backend",
       icon: <Server className="h-6 w-6" />,
-      items: ["NodeJS", "ExpressJS"],
+      items: ["PHP","NodeJS", "ExpressJS"],
     },
     {
       category: "Database",
       icon: <Database className="h-6 w-6" />,
-      items: ["MongoDB", "Mongoose", "SQL", "Firebase", "Redis"],
+      items: ["MongoDB", "MySQL", "Supabase"],
     },
     {
       category: "DevOps",
       icon: <GitBranch className="h-6 w-6" />,
-      items: ["Git", "GitHub", "Github Actions", "Docker", "AWS", "Vercel", "Netlify", "Vite"],
+      items: ["Git", "GitHub", "Github Actions","Lovable", "Vercel", "Netlify", "Vite"],
     },
     {
       category: "Design",
       icon: <PenTool className="h-6 w-6" />,
-      items: ["Figma", "Responsive Design", "Wireframing"],
+      items: ["Figma", "Canva","Responsive Design", "Wireframing"],
     },
     {
       category: "Knowledge",
       icon: <Layers className="h-6 w-6" />,
-      items: ["OOP", "SOLID", "RESTful Services", "Testing", "Performance Optimization", "PWA", "Agile/Scrum", "TDD",],
+      items: ["OOP", "Responsive Design", "UI/UX Principles", "Testing", "Agile/Scrum FUndamentals", "Project Management",],
     },
   ]
 
