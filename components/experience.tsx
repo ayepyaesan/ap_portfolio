@@ -34,6 +34,7 @@ export default function Experience() {
       company: "Achievements",
       period: "",
       description: [
+        "JENESYS 2022 - Selected as one of the Myanmar delegates to visit Japan",
         "Strategy First x MYANWEN Business Plan Competition 2025 – First Prize & Innovative award winner (Team HERgy)",
         "Strategy First x MYANWEN AI Hackathon 2025 – Third Prize winner (Team HERgy)",
       ],
