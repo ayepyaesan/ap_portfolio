@@ -9,8 +9,8 @@ export default function Footer() {
 
   const socialLinks = [
     { icon: <Github className="h-5 w-5" />, href: "https://github.com/ayepyaesan", label: "GitHub" },
-    { icon: <Linkedin className="h-5 w-5" />, href: "https://github.com/ayepyaesan", label: "LinkedIn" },
-    { icon: <Twitter className="h-5 w-5" />, href: "https://github.com/ayepyaesan", label: "Twitter" },
+    { icon: <Linkedin className="h-5 w-5" />, href: "https://www.linkedin.com/in/aye-pyae-wai-khin-soe972/", label: "LinkedIn" },
+    { icon: <Instagram className="h-5 w-5" />, href: "https://www.instagram.com/apyae_r?igsh=dzA5Z3VoaTFtZGQ1&utm_source=qr", label: "Instagram" },
     // { icon: <Instagram className="h-5 w-5" />, href: "#", label: "Instagram" },
   ]
 
