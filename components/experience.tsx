@@ -18,6 +18,8 @@ export default function Experience() {
         <div><span className="font-bold">NCC Education Level 5 Diploma in Computing (with Business Management)</span><br />Just finished level 5 and planning to join final year at University of Lancashire from UK</div>,
         <div><span className="font-bold">Certificate in UI/UX principles for Beginners</span><br />From Strategy First International College</div>,
         <div><span className="font-bold">SheCodes – online coding workshops for women</span><br />Currently completed 3 workshops about web development</div>,
+        <div><span className="font-bold">KIT Bio Tech & IT Spring School</span><br />Kyoto Institute of Technology, 2022</div>,
+        <div><span className="font-bold">Code2Career Hackathon Participant</span><br />Myanmar-Japan Center , 2025</div>,
       ],
     },
     {
